@@ -1,0 +1,3 @@
+to run the script you need to have python installed
+https://www.python.org/downloads/
+ then run "python script.py"
